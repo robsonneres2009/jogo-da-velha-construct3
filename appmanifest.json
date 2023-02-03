@@ -1,7 +1,7 @@
 {
-	"name": "Novo projeto",
-	"short_name": "Novo projeto",
-	"description": "",
+	"name": "Jogo da Velha",
+	"short_name": "Jogo da Velha",
+	"description": "Sond by https://mixkit.co/",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
